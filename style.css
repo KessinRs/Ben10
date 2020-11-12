@@ -1,0 +1,166 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.info{
+    background-image: url(./img/Ben-hero1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+.heading{
+    font-family: Comic Sans MS;
+    font-size: 45px;
+}
+.para{
+    font-family: Comic Sans MS;
+    font-size: 20px;
+}
+.image-1{
+    background-image: url(./img/Ben-Hero.jpg);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.image-2{
+    background-image: url(./img/Ben-aliens.jpg);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.image-3{
+    background-image: url(./img/Aliens/Alien-Origins/Astrodactyl/Background.jpg);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.text{
+    text-align: left;
+    padding-top:20px;
+    font-size: 20px;
+    font-family: Comic Sans MS;
+    padding-right: 20px;
+}
+.image-4{
+    background-image: url(./img/Alien-2.png);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.image-5{
+    background-image: url(./img/Alien-3.png);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.image-6{
+    background-image: url(./img/Alien-4.png);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.image-7{
+    background-image: url(./img/Alien-5.jpg);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.image-8{
+    background-image: url(./img/Alien-6.jpg);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.image-9{
+    background-image: url(./img/Alien-7.jpg);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.image-10{
+    background-image: url(./img/Alien-8.jpg);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.image-11{
+    background-image: url(./img/Alien-9.jpg);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.image-12{
+    background-image: url(./img/Alien-10.jpg);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.image-13{
+    background-image: url(./img/Alien-11.png);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.image-14{
+    background-image: url(./img/Alien-12.png);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+} 
+.image-15{
+    background-image: url(./img/Alien-13.png);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+} 
